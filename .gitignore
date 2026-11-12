@@ -1,0 +1,29 @@
+# Virtual environments
+.venv/
+sklearn-env/
+venv/
+ENV/
+env/
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local runner shim
+powershell.bat
+powershell.cmd
+
